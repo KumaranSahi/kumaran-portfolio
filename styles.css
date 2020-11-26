@@ -106,6 +106,15 @@ footer ul li a{
     font-size: 1.5rem;
 }
 
+.links-github{
+    color: red;
+}
+
+.links-projects{
+    display: block;
+    margin: 10px;
+}
+
 .links-nav-title{
     font-weight: 800;
     font-size: 2rem;
