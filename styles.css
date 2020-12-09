@@ -110,10 +110,22 @@ footer ul li a{
     color: red;
 }
 
+.links-github:hover{    
+    background-color: red;
+    color: white;
+}
+
 .links-projects{
     display: block;
     margin: 10px;
 }
+
+
+.links-projects:hover{
+    background-color: blue;
+    color: white;
+}
+
 
 .links-nav-title{
     font-weight: 800;
@@ -128,6 +140,15 @@ footer ul li a{
     text-decoration: none;
     font-size: 1.3rem;
     letter-spacing: 1px;
+    border: 2px solid blue;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+.link-section:hover{
+    color: white;
+    background-color: blue;
 }
 
 /* Typography */
